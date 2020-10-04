@@ -5,7 +5,7 @@ date: 2019-01-03
 categories:
 - photography
 - yellow
-project_bg_color: ''
+project_bg_color: "#FFFFFF"
 project_fg_color: ''
 
 ---
